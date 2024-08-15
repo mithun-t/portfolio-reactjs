@@ -1,3 +1,23 @@
+## Portfolio
+   A responsive portfolio web application created using React JS Framework
+
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/mithun-t/portfolio-reactjs.git   
+2. **Go to directory**
+    ```bash
+   cd portfolio-reactjs
+2. **Install the dependencies:**
+    ```bash
+   npm install    
+3. **Start the development server:**
+   ```bash
+   npm start
+4. **Access the application:**
+   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
